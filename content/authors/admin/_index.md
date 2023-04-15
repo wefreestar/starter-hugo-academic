@@ -1,7 +1,7 @@
 ---
 title: WeFreeStar
 role: Strive to be the best online tool website and a platform for disseminating
-  high-quality content
+  high-quality content.
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
